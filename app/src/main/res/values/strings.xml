@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Simple Survey</string>
+    <string name="error_generic">Unexpected error</string>
+    <string name="forgot">Forgot?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="start_survey">Take Survey</string>
+    <string name="reset">Reset</string>
+    <string name="log_in">Log in</string>
+    <string name="channel_name">Survey Notification</string>
+    <string name="channel_description">You will receive notification from this channel</string>
+    <string name="msg_check_email">Check your email.</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_password">Please enter password</string>
+    <string name="msg_logout_confirmation">Are you sure you want to logout?</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    <string name="error_survey_database">Failed to get surveys from database</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_survey_insert">Failed to insert surveys in local database</string>
+    <string name="msg_logged_out">You are logged out, please login again</string>
+    <string name="error_logout">Unable to logout</string>
+</resources>

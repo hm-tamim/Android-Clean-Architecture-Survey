@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_wifi_data">Please turn on Wi-fi or Mobile Data</string>
+    <string name="error_internet_connection">Please check your network connection</string>
+</resources>
